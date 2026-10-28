@@ -1,0 +1,1 @@
+Ramsor is an architectural blueprint for an un-killable, multi-sovereign cognitive factory. I designed this framework from Day 0 using tight mathematical invariants, a five-entity risk isolation model, and a comprehensive STRIDE threat model to harden the system before writing a single line of production code.
