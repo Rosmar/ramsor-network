@@ -1,7 +1,18 @@
+# Ramsor Network
+## Project Abstract: High-Throughput Asymmetric Edge-Compute & Distributed Coordination Network
+**Author:** Rosmar Gerardo Prieto Dávila (RGPD)
+**Date:** October 26, 2026
+**Status:** Design Phase Validation (Day 0 GitHub structure)
+
+---
+
+## 1. What is Ramsor?
+
 Ramsor is an architectural blueprint for an un-killable, multi-sovereign cognitive factory. I designed this framework from Day 0 using tight mathematical invariants, a five-entity risk isolation model, and a comprehensive STRIDE threat model to harden the system before writing a single line of production code.
 
 
-asymmetric-edge-network/
+```text
+ramsor-network/
 ├── .github/
 │   └── workflows/
 │       └── ci.go.yml           # Automated linting and test execution
@@ -20,3 +31,6 @@ asymmetric-edge-network/
 │       └── analyzer.go         # Go gateway real-time token perplexity traps
 ├── README.md                   # Executive project abstract and architecture portal
 └── go.mod                      # Go module dependencies
+
+
+```
